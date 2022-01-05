@@ -11,7 +11,9 @@ I am 22 years old. I want to become a webdeveloper and develop in the IT field. 
 * CSS
 * Git and GitHub
 # Code Examples #
-
+`function multiply (a, b) {
+return a * b
+}`
 # Education and Experience
 * Ural State College named after Polzunov: _Analytical quality control of chemical compounds_
 * A year of work in a chemical laboratory for the analysis of food products
